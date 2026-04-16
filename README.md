@@ -1,6 +1,9 @@
 # Ford-Inline-6-300-Cubic-Inch.Engine
 sch: [ford f 150 300 inline 6 manual fuel economy](https://www.google.com/search?q=ford+f+150+300+inline+6+manual+fuel+economy) # 
 
+# Wiki:
+https://en.wikipedia.org/wiki/Ford_straight-six_engine
+
 # Review:
 - [Why I Love This Manual 1993 Ford F-150 (Inline-6 Drive Review)](https://youtu.be/VKDlIv1i43s)
 
